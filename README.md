@@ -1,2 +1,2 @@
 # babazaj.hu
-small white noise generator app for babies
+This is a basic white noise generator app for babies
