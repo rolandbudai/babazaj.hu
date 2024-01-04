@@ -1,0 +1,65 @@
+body{
+      background-color: #a0db8e;
+      color:black;
+    }
+
+h1{
+      margin-top:10px
+    }
+
+img{
+      margin-top:10px
+    }
+
+h4{
+    color:#f1eded;
+    }
+
+#random{
+      background-image: url("../img/hanga1.jpg");
+      background-size: cover;
+      clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 100% 75%, 50% 99%, 0 75%, 0 75%);
+      height:300px;
+    }
+
+.colorBtn{
+      cursor: pointer;
+      padding: 0px;
+      border: none;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      opacity: 0.9;
+      height: 81px;
+      width: 81px;
+      border-radius: 50%;
+      margin: 5px;
+}
+
+.colorBtn:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(1px);
+}
+
+.colorBtn:hover{
+  opacity: 1
+}
+
+.button1 {
+  background-image: url("../img/button.jpg");
+}
+
+.button2 {
+  background-image: url("../img/wash.jpg");
+}
+
+.container{
+      font-family: 'Sniglet', cursive;
+    }
+
+.text-center{
+  padding:15px;
+}
+
+
+a:link {
+    text-decoration:none;
+    }
